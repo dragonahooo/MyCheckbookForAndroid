@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6c2f</color>
+    <color name="colorPrimaryDark">#ff6c2f</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="mainbg">#ff6c2f</color>
+    <color name="colornumber">#333333</color>
+    <color name="colorinput">#000000</color>
+    <color name="colorwords">#ffffff</color>
+
+
+    <color name="padstart">#feedff</color>
+    <color name="padend">#e0eeff</color>
+
+
+    <color name="inputstart">#f9edff</color>
+    <color name="inputend">#e5eeff</color>
+
+</resources>
